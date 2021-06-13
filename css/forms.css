@@ -4,14 +4,14 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+h1 {
+	font-family: 'Faster One';
+}
 body {
 	font-family: Arial, Helvetica, sans-serif;
 	margin: 0;
 	padding: 0;
 	background-image: url(../img/galaxy.jpg);
-}
-h1 {
-	font-family: 'Faster One';
 }
 .wrapper {
 	width: 80%;
